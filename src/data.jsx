@@ -1,0 +1,42 @@
+export const VillagerList = [{
+    key: 0,
+    name: "Gayle", 
+    src: "/images/Gayle.png"
+}, {
+    key: 1,
+    name: "Marina", 
+    src: "/images/Marina.png"
+}, {
+    key: 2,
+    name: "Judy", 
+    src: "/images/Judy.png"
+}, {
+    key: 3,
+    name: "Tangy", 
+    src: "/images/Tangy.png"
+}, {
+    key: 4,
+    name: "Poppy", 
+    src: "/images/Poppy.png"
+}, {
+    key: 5,
+    name: "Sasha", 
+    src: "/images/Sasha.png"
+}, {
+    key: 6,
+    name: "Roald", 
+    src: "/images/Roald.png"
+}, {
+    key: 7,
+    name: "Zucker", 
+    src: "/images/Zucker.png"
+}, {
+    key: 8,
+    name: "Stitches", 
+    src: "/images/Stitches.png"
+}, {
+    key: 9,
+    name: "Henry", 
+    src: "/images/Henry.png"
+}
+];
